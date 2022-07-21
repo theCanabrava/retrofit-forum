@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Retrofit Forum</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="title">%s</string>
+    <string name="content">%s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+
+    <string name="delete_title">Delete Post</string>
+    <string name="sure">Are you sure you wish to delete this post?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title_hint">Title:</string>
+    <string name="body_hint">Body:</string>
+    <string name="confirm_edit">Edit</string>
+
+    <string name="add_task">Add</string>
+    <string name="confirm_add">Add</string>]
+
+    <string name="filter">Filter</string>
+</resources>
